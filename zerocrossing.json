@@ -4,6 +4,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0380859375,
+        "Mean Zero Crossing Rate:": 0.043843587239583336,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -12,6 +13,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.123046875,
+        "Mean Zero Crossing Rate:": 0.12408280922431866,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -20,6 +22,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1884765625,
+        "Mean Zero Crossing Rate:": 0.16476992615099806,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -28,6 +31,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0283203125,
+        "Mean Zero Crossing Rate:": 0.03833764354721108,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -36,6 +40,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0439453125,
+        "Mean Zero Crossing Rate:": 0.048477686189663576,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -44,6 +49,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.037109375,
+        "Mean Zero Crossing Rate:": 0.04541015625,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -52,6 +58,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1240234375,
+        "Mean Zero Crossing Rate:": 0.1216924526311752,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -60,6 +67,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1513671875,
+        "Mean Zero Crossing Rate:": 0.14812754266273043,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -68,6 +76,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.109375,
+        "Mean Zero Crossing Rate:": 0.11102910421250459,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -76,6 +85,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0595703125,
+        "Mean Zero Crossing Rate:": 0.06588783747033228,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -84,6 +94,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.080078125,
+        "Mean Zero Crossing Rate:": 0.08746119197882736,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -92,6 +103,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.123046875,
+        "Mean Zero Crossing Rate:": 0.12408280922431866,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -100,6 +112,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1142578125,
+        "Mean Zero Crossing Rate:": 0.11495348387809187,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -108,6 +121,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.03515625,
+        "Mean Zero Crossing Rate:": 0.07604192918346774,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -116,6 +130,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.07421875,
+        "Mean Zero Crossing Rate:": 0.07276429521276596,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -124,6 +139,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0615234375,
+        "Mean Zero Crossing Rate:": 0.07014064224613686,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -132,6 +148,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1396484375,
+        "Mean Zero Crossing Rate:": 0.13232405317480503,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -140,6 +157,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1826171875,
+        "Mean Zero Crossing Rate:": 0.16502326392633737,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -148,6 +166,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.08203125,
+        "Mean Zero Crossing Rate:": 0.09180837860156,
         "Classified": 1,
         "Sound Signature": 3
     },
@@ -156,6 +175,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.107421875,
+        "Mean Zero Crossing Rate:": 0.101191999516081,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -164,6 +184,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1357421875,
+        "Mean Zero Crossing Rate:": 0.14190519957983194,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -172,6 +193,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.166015625,
+        "Mean Zero Crossing Rate:": 0.15877920955679434,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -180,6 +202,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0693359375,
+        "Mean Zero Crossing Rate:": 0.07447932078542442,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -188,6 +211,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0849609375,
+        "Mean Zero Crossing Rate:": 0.08494542078684922,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -196,6 +220,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.095703125,
+        "Mean Zero Crossing Rate:": 0.09697133868339812,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -204,6 +229,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.2109375,
+        "Mean Zero Crossing Rate:": 0.21364193476830434,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -212,6 +238,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.087890625,
+        "Mean Zero Crossing Rate:": 0.09302176488812969,
         "Classified": 1,
         "Sound Signature": 4
     },
@@ -220,6 +247,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1904296875,
+        "Mean Zero Crossing Rate:": 0.18356766809678843,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -228,6 +256,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.12890625,
+        "Mean Zero Crossing Rate:": 0.12525072478425028,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -236,6 +265,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0400390625,
+        "Mean Zero Crossing Rate:": 0.053866704840634654,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -244,6 +274,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1396484375,
+        "Mean Zero Crossing Rate:": 0.1252392155979827,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -252,6 +283,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1279296875,
+        "Mean Zero Crossing Rate:": 0.1281608768804434,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -260,6 +292,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.1669921875,
+        "Mean Zero Crossing Rate:": 0.15641203505313678,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -268,6 +301,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0712890625,
+        "Mean Zero Crossing Rate:": 0.0789485667827694,
         "Classified": 1,
         "Sound Signature": 4
     },
@@ -276,6 +310,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.2724609375,
+        "Mean Zero Crossing Rate:": 0.2701368754359958,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -284,6 +319,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0322265625,
+        "Mean Zero Crossing Rate:": 0.037540674234065485,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -292,6 +328,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0673828125,
+        "Mean Zero Crossing Rate:": 0.07123839685330655,
         "Classified": 1,
         "Sound Signature": 1
     },
@@ -300,6 +337,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.0517578125,
+        "Mean Zero Crossing Rate:": 0.05414128707627119,
         "Classified": 1,
         "Sound Signature": 2
     },
@@ -308,6 +346,7 @@
         "Sample Rate": 1024,
         "Hop length": 512,
         "Median Zero Crossing Rate": 0.06640625,
+        "Mean Zero Crossing Rate:": 0.07537121023856859,
         "Classified": 1,
         "Sound Signature": 2
     }
