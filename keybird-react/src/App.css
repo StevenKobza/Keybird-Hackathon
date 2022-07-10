@@ -1,0 +1,171 @@
+.App {
+  text-align: center;
+}
+div {
+    color:black;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color:rgb(235, 255, 252);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-wrapper {
+  display:inline-flex;
+}
+
+.Input-wrapper {
+  display: inline-block;
+  min-height: 60vh;
+  min-width: 30vh;
+  background-color:rgb(219, 255, 250);
+  border: 5px solid rgb(143, 255, 240);
+  border-radius: 25px;
+  margin:1em;
+
+}
+
+.Output-wrapper {
+  min-height: 60vh;
+  background-color:rgb(219, 255, 250);
+  border: 5px solid rgb(143, 255, 240);
+  border-radius: 25px;
+  margin:1em;
+  display:inline-flex;
+
+}
+
+.UploadAudio, .RecordAudio {
+    
+}
+
+.Information-wrapper {
+  background:white;
+  height: 55vh;
+  width: 55vh;
+  border-radius: 20px;
+}
+
+.Information-wrapper > div {
+  background:  rgb(143, 255, 240);
+
+  /* width:53vh; */
+  /* height: 26vh; */
+  border-radius: 20px;
+
+  padding:10.85vh;
+
+  margin:1vh;
+}
+
+.Predictions-wrapper {
+  height:55vh;
+  width:48.25vh;
+  margin:2.5vh;
+  border-radius: 20px;
+  display:flex;
+  flex-wrap: wrap;
+
+}
+
+.Prediction {
+  height:17vh;
+  width:23vh;
+  margin:0.5vh;
+
+  background: #68ffeb;
+  background: rgb(100,255,235);
+  background: linear-gradient(29deg, rgba(100,255,235,1) 0%, rgba(61,219,175,1) 100%);
+  border-radius: 20px;
+}
+
+.Prediction-value {
+  display:inline-flex;
+  min-height:10vh
+}
+
+.Prediction-svg {
+  margin:0.5vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.uploadwrapperthing {
+  display: block;
+
+}
+
+.custom-file-upload, .uploadButton {
+  background: rgb(100,255,235);
+  background: linear-gradient(29deg, rgba(100,255,235,1) 0%, rgba(61,219,175,1) 100%);
+  border: 2px solid rgb(13, 161, 141);
+  border-radius: 5px;
+  padding:5px;
+  margin:5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  
+
+}
+
+
+.StopRecordButton, .StartRecordButton {
+  all: unset;
+  border: none;
+  color: white;
+  border-radius:1000px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:0 1em;
+
+}
+
+.StartRecordButton {
+  padding: 3vh 2.5vh 3vh 3.5vh;
+  background: rgb(56,255,56);
+  background: linear-gradient(29deg, rgba(56,255,56,1) 0%, rgba(0,255,0,1) 100%);
+    border: 2px solid rgb(3, 143, 3);
+
+}
+
+.StopRecordButton {
+  padding: 3vh;
+  background: rgb(255, 31, 31);
+  border: 2px solid rgb(100, 0, 0);
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

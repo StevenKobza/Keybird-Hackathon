@@ -1,6 +1,6 @@
 data
 datasets
-*.wav
+
 *.code-workspace
 *-checkpoint.ipynb
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
@@ -22,3 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 __pycache__
+keybird
+organizedWavs
